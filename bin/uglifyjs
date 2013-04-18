@@ -131,7 +131,7 @@ if (MANGLE && ARGS.screw_ie8) {
 }
 
 var OUTPUT_OPTIONS = {
-    beautify: BEAUTIFY ? true : false
+    beautify: true
 };
 
 if (BEAUTIFY)
